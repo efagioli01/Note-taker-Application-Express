@@ -1,4 +1,4 @@
-const router = require("express").Router()
+const router = require("express").Router();
 
 const store = require("../db/store")
 
@@ -32,4 +32,4 @@ router.delete("/notes/:id", (req, res) => {
     .catch(err => res.status(500).json(err) )
 })
 
-module.exports = router
+module.exports = router;

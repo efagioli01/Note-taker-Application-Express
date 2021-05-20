@@ -9,4 +9,4 @@ router.get("*", (req, res) => {
     res.sendFile(path.join(__dirname, "../public/index.html")) //will redirect to home page if taken to bad path
 })
 
-module.exports = router
+module.exports = router;
