@@ -18,7 +18,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Description
 ```
-The goal of this project was to create a Node.js command-line application that takes in information about employees on an engineering team through user prompts, then generates an HTML webpage that displays the information for each employee. 
+The goal of this project was to create a Node.js command-line application that takes in information about employees on an engineering team through user prompts, then generates an HTML webpage that displays the information for each employee. I also handled a  DELETE requests, by adding the DELETE route to the application.
 ```
 
 
