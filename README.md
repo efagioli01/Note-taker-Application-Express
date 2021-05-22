@@ -85,6 +85,7 @@ to see the app working open server.js in your integrated terminal and run node s
 * [GitHub Repository](https://github.com/efagioli01/team-profile-generator)
 
 * HEROKU https://damp-fjord-64572.herokuapp.com/notes
+https://damp-fjord-64572.herokuapp.com/
 
 
 ## Screenshot
