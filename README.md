@@ -90,7 +90,7 @@ to see the app working open server.js in your integrated terminal and run node s
 ## Screenshot
 
 ![screenshot](./images/noteone.PNG)
-![screenshot](./images/notE2.PNG)
+![screenshot](./images/note2.PNG)
 
 
 
